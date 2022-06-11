@@ -2,6 +2,7 @@
 
 ![alt text](https://github.com/kzs61/sharks-AWS-IAM/blob/Master/IAM.png)
 
+
 In order for users to utilize AWS services, we must create IAM policies for IAM user groups then attach those policies to those user groups.
 
 There are 4 IAM resources to create an IAM group policy in "**Best Practice**". 
