@@ -1,6 +1,7 @@
 **IAM GROUP POLICY UTILIZATION**
 
-![alt text](https://github.com/kzs61/sharks-AWS-IAM/blob/master/IAM.png)
+![alt text](https://github.com/kzs61/sharks-AWS-IAM/blob/Master/IAM.png)
+
 
 In order for users to utilize AWS services, we must create IAM policies for IAM user groups then attach those policies to those user groups.
 
@@ -74,4 +75,3 @@ All the users including newly created ones should be on the screen. Then go to u
 Note[^1].
 [^1]: In order to test if those users have privilige for correct access, you may want to login as those users and verify their access.
       Read only users should not be able to start/stop the instances. Whereas admin or DevOps users would have that privilige.
-
